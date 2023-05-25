@@ -113,10 +113,11 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://shanmathi.student.saveetha.in:8000/static/images/out1.png?raw=true)
+![out1](https://github.com/ShanmathiShanmugam/timetable/assets/121243595/4e65e623-1287-484b-b3aa-59981954a3fa)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://shanmathi.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![valid](https://github.com/ShanmathiShanmugam/timetable/assets/121243595/6371284a-e729-49fd-b430-ac5a2abc5f7d)
 
 # RESULT
 The program for crating slot time table is complted successfully.
